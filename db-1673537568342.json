@@ -9,16 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "pug",
-      "dogBreed": "",
-      "id": 3
-    },
-    {
-      "dogName": "",
-      "dogBreed": "pug",
-      "id": 4
     }
   ],
   "cats": [
